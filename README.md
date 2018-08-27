@@ -1,10 +1,10 @@
-# Impacto de la introduccion de las vacunas contra hepatitis y triple viral en la Ciudad de Buenos Aires
+# Impacto de la introduccion de las vacunas contra hepatitis A/B y triple viral en la Ciudad de Buenos Aires
 
-> 
+> **Summary:**
 
 ## 1. Introducción
 
-Desde el 2003 al al 2012, el calendario de vacunacion de la nación Argentina introdujo 8 vacunas, entre ellas la vacuna de la hepatitis B (2003), la triple viral (2003) y de la hepatitis A (2005) [[1]](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-00752013000200011). Nuestro objetivo en presente trabajo es estudiar el impacto que tuvo esta politica en la incidencia de las enfermedades inmunoprevenibles.
+Desde el 2003 al al 2012, el calendario de vacunacion de la nación Argentina introdujo 8 vacunas, entre ellas la vacuna de la pentavalente (2008), la triple viral (2003) y de la hepatitis A (2005) [[1]](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-00752013000200011). Nuestro objetivo en presente trabajo es estudiar el impacto que tuvo esta politica en la incidencia de las enfermedades inmunoprevenibles.
 
 ## 2. Materiales y Metodo
 
