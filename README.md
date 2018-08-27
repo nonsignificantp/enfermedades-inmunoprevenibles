@@ -1,25 +1,24 @@
-# Impacto de la introduccion de las vacunas contra hepatitis A/B y triple viral en la Ciudad de Buenos Aires
+# Impacto de la introduccion de las vacunas contra hepatitis A y B en la Ciudad de Buenos Aires
 
-> **Summary:**
+> **Research Question:** Had the population of Buenos Aires City lower incidence of reported cases of hepatitis A and hepatitis B after the introduction of the hepatitis B vaccine in 2004 and hepatitis A vaccine in 2005?
 
-## 1. Introducción
+## Primary Aim
 
-Desde el 2003 al al 2012, el calendario de vacunacion de la nación Argentina introdujo 8 vacunas, entre ellas la vacuna de la pentavalente (2008), la triple viral (2003) y de la hepatitis A (2005) [[1]](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-00752013000200011). Nuestro objetivo en presente trabajo es estudiar el impacto que tuvo esta politica en la incidencia de las enfermedades inmunoprevenibles.
+Purpose of this study is to examine the impact that the introduction of those vaccines had on the incidence of new cases of hepatitis A and hepatitis B reported in the city of Buenos Aires during the years 1995 to 2013.
 
-## 2. Materiales y Metodo
+## Variables and source
 
-### 2.1 Diseño del estudio
+1. Number of vaccines administered to both residents and non-residents of Buenos Aires City.
+2. Number of registered cases of hepatitis A and hepatatis B from public hospitals aroun Buenos Aires City.
 
-Realizamos un estudio de diseño observacional retrospectivo que abarca el periodo desde el año 1995 hasta 2013 y que se limita a la poblacion de la Ciudad de Buenos Aires.
+All data came from the webpage of Buenos Aires City's Statistics and Census Boreau and all data is limited to Buenos Aires City's records from 1995 to 2013.
 
-### 2.2 Origen y recoleccion de las variables
+## Statistical analysis
 
-Todos los datos provienen de la Dirección General de Estadística y Censos de la Ciudad de Buenos Aires. Tanto el numero de vacunas administradas a la poblacion [[2]](http://www.estadisticaciudad.gob.ar/eyc/?p=28782) como el numero de casos reportados de hepatitis A, hepatitis B, parotiditis y rubeola [[3]](http://www.estadisticaciudad.gob.ar/eyc/?p=28834) provienen de los hospitales publicos de la Ciudad de Buenos Aires.
+First, a GLM with a Poisson distribution and robust standard errors was fitted for measuring the impact as incidence rate ratio that 10.000 persons vaccinated had on the disease incidence. Secondly, an interrupted time series analysis design with the same type of model was done to see the change of level between the pre-intervention and the post-intervention periods. Defining intervention as the year after the introduction of the new vaccine to the national vaccine schedule.
 
-### 2.3 Analisis estadistico
+## Results
 
-Para cada vacuna se realizo un analisis en dos partes. Por un lado, modelamos el impacto que tienen 10.000 vacunas administradas en la poblacion sobre la incidencia de casos de la enfermedad a prevenir con el uso de un modelo lineal generalizado con distribucion poisson y errores estandares robustos para compensar la sobredispersion. La segunda parte consistio en realizar una serie de tiempo interrumpida [[4]](https://academic.oup.com/ije/article/46/1/348/2622842) para analizar el impacto que tuvo la politica de incluir las vacunas en el calendario de vacunacion obligatorio. El periodo de intervencion para cada vacuna abarca el año de su introduccion asi como el año siguiente.
+### Hepatitis A
 
-## 3. Resultados
-
-### 3.1 Hepatitis A
+### Hepatitis B
