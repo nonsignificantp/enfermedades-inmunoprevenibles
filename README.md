@@ -8,8 +8,8 @@ Purpose of this study is to examine the impact that the introduction of those va
 
 ## Variables and source
 
-1. Number of vaccines administered to both residents and non-residents of Buenos Aires City.
-2. Number of registered cases of hepatitis A and hepatatis B from public hospitals aroun Buenos Aires City.
+1. Number of vaccines administered to both residents and non-residents of Buenos Aires City[[1]](www.estadisticaciudad.gob.ar/eyc/?p=28782).
+2. Number of registered cases of hepatitis A and hepatatis B from public hospitals aroun Buenos Aires City[[2]](http://www.estadisticaciudad.gob.ar/eyc/?p=28834).
 
 All data came from the webpage of Buenos Aires City's Statistics and Census Boreau and all data is limited to Buenos Aires City's records from 1995 to 2013.
 
