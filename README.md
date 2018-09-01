@@ -22,3 +22,5 @@ First, a GLM with a Poisson distribution and robust standard errors was fitted f
 ### Hepatitis A
 
 ### Hepatitis B
+
+![Hepatitis B: Figure 1](img/hepBfig.png?raw=true "Hepatitis B: Figure 1")
